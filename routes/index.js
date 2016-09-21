@@ -8,7 +8,7 @@ var mailTransport = nodemailer.createTransport({
 	secureConnection: true, // use SSL
 	auth : {
 		user : 'konkadigital@sina.cn',
-		pass : 'konkasw2014'
+		pass : 'xxxx'
 	},
 });
 
